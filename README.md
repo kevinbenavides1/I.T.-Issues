@@ -26,20 +26,29 @@ Will be solving I.T. issues for The Office, a new paper company that has moved i
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Issues Presented at Work Today</h2>
 
-- Step 1
+- User Lockout
 - Step 2
 - Step 3
 - Step 4
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>I.T. Resolutions</h2>
+
+<h3>:lock:User Lockout</h3>
+
+<ins>User Affected:</ins> Kevin Malone </br>
+<ins>Admin Resolving Issue:</ins> Kevin Benavides (Domain Admin) </br>
+<ins>Desctiption:</ins> Kevin Malone was unable to log into his workstation after exceeding the maximum number of failed login attempts. As a result, his domain account became locked out. </br>
+</br>
+<ins>Root Cause:</ins> Too many failed password attempts triggered the account lockout policy defined in the domain. 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="767" alt="Screenshot 2025-06-24 at 4 41 38 PM" src="https://github.com/user-attachments/assets/bb2b55e1-0954-45ba-a234-76bef0fd3d21" />
 </p>
+<h3>Resolution:</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
