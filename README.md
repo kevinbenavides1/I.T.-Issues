@@ -2,8 +2,17 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Active Directory: Common I.T. Issues & Resolutions</h1>
+This section highlights real-world I.T. issues faced in domain environments and how they were resolved using Active Directory tools, Powershell, and standard troublshooting practices.<br />
+
+<p>
+  
+![The_Office-logo](https://github.com/user-attachments/assets/f27f9f4c-a809-41f6-b94a-67bb32656b4b)
+</p>
+Will be solving I.T. issues for The Office, a new paper company that has moved into Columbus, Ohio!
+
+
+
 
 <h2>Environments and Technologies Used</h2>
 
