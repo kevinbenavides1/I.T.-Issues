@@ -33,7 +33,7 @@ Will be solving I.T. issues for The Office, a new paper company that has moved i
 - Step 3
 - Step 4
 
-<h2>I.T. Resolutions</h2>
+<h2>I.T. Issues & Resolutions</h2>
 
 <h3>:lock:User Lockout</h3>
 
@@ -47,11 +47,16 @@ Will be solving I.T. issues for The Office, a new paper company that has moved i
 <img width="767" alt="Screenshot 2025-06-24 at 4 41 38 PM" src="https://github.com/user-attachments/assets/bb2b55e1-0954-45ba-a234-76bef0fd3d21" />
 </p>
 <h3>Resolution:</h3>
-<p>
 
-</p>
+https://github.com/user-attachments/assets/99f16579-0f18-4734-a621-9f53ec4db05f
+
 <br />
+- Opened Active Directory Users and Computers (ADUC)<br />
+- Navigated to the Sales OU<br />
+- Right-Clicked on Kevin Malone's account -> selected Unlock Account<br />
+- Verified Kevin was able to log in afterward.<br />
 
+<h3>Next</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
