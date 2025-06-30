@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/99f16579-0f18-4734-a621-9f53ec4db05f
 
 <br />
 - Opened Active Directory Users and Computers (ADUC)<br />
-- Navigated to the Sales OU<br />
+- Navigated to the Accounting OU<br />
 - Right-Clicked on Kevin Malone's account -> selected Unlock Account<br />
 - Verified Kevin was able to log in afterward.<br />
 
